@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+behave = "==1.2.6"
+parse = "==1.8.4"
+six = "==1.11.0"
+parse_type = "==0.4.2"
+selenium = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
